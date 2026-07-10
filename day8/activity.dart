@@ -88,6 +88,7 @@ Total Purchase: $totalPrice
     return null;
   }
 
+  @override
   String toString() => '''
 
 Name: $name
